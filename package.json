@@ -9,6 +9,7 @@
     "bootstrap": "^5.3.3",
     "gallery": "file:",
     "react": "^18.2.0",
+    "react-awesome-lightbox": "^1.8.1",
     "react-bootstrap": "^2.10.5",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
